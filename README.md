@@ -1,4 +1,4 @@
-# student-performance-analysis
+# Student Performance Analysis (EDA Project)
 📊 Student Performance Analysis (EDA Project)
 
 🚀 Why This Project
