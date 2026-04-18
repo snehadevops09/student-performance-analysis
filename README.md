@@ -1,6 +1,14 @@
 # student-performance-analysis
 📊 Student Performance Analysis (EDA Project)
 
+🚀 Why This Project
+   This project explores real student performance data to identify factors affecting academic success using data analysis techniques.
+
+💡 Key Outcome
+    Identified major factors affecting student scores
+    Found strong correlation between study time and performance
+    Visualized academic patterns using Python
+
 Project Overview-
    This project analyzes student performance data to understand how factors like study hours, attendance, parental education, and lifestyle affect exam scores.
    The goal is to perform data cleaning, exploratory data analysis (EDA), and visualization to extract meaningful insights.
@@ -60,3 +68,10 @@ Project Overview-
    Deploy an interactive dashboard using Streamlit
    Perform feature selection and regression modeling
    Add automated data reporting system
+
+🧠 What I Learned
+    Data cleaning techniques
+    Handling missing values
+    Data visualization storytelling
+    Correlation analysis
+    Real-world EDA workflow  
